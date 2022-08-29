@@ -24,6 +24,6 @@ downloaded within 2 weeks after your completion of the **Unsupervised
 Learning** and **Bertelsmann Capstone** projects and the program. If you
 do not agree to these additional terms, you will not be allowed to
 access the data for this project.
-<\p>
+
 <p>        You can <a href="https://github.com/PatrickHelm/Udacity/blob/main/Intro%20to%20Machine%20Learning%20with%20Tensorflow/P3%20-%20Unsupervised%20Learning/terms.pdf">click here to download the PDF file.</a>
 </p>
