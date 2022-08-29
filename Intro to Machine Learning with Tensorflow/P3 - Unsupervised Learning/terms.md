@@ -17,7 +17,7 @@ access the data for this project.
 <div class="terms-and-conditions-pdf">
 <object data="/tree/terms_and_conditions/terms.pdf" type="application/pdf" width="100%">
     <p>It appears you do not have a PDF plugin for this browser. 
-        You can <a href="/tree/terms_and_conditions/terms.pdf">click here to download the PDF file.</a>
+        You can <a href="https://github.com/PatrickHelm/Udacity/blob/main/Intro%20to%20Machine%20Learning%20with%20Tensorflow/P3%20-%20Unsupervised%20Learning/terms.pdf">click here to download the PDF file.</a>
     </p>
 </object>
 </div>
