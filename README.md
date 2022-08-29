@@ -1,2 +1,2 @@
 # Udacity
-Constellation of my completed Udacity Nanodegrees
+Constellation of my completed projects from Udacity Nanodegrees
